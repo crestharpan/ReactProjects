@@ -1,0 +1,3 @@
+-function are stateless
+-by default the programma identifies an state for the class
+-we can pass data within components using props
